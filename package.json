@@ -32,7 +32,7 @@
     "leaflet": "1.4.0",
     "load-grunt-tasks": "^4.0.0",
     "node-sass": "^4.11.0",
-    "ssri": "^6.0.1"
+    "ssri": "^8.0.1"
   },
   "license": "Apache-2.0",
   "readmeFilename": "README.md",
